@@ -17,6 +17,8 @@ using namespace std;
  Escribe aquí un comentario general sobre la solución, explicando cómo
  se resuelve el problema y cuál es el coste de la solución, en función
  del tamaño del problema.
+
+ Problema de tipo: Algoritmo voraz
  
  @ </answer> */
 
